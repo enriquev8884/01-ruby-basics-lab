@@ -1,13 +1,13 @@
-def division
-    
+def division(x, y)
+    return x%y
 end
 
-def assign_variable
+def assign_variable()
   
 end
 
-def argue
-  
+def argue(phrase)
+  return phrase
 end
 
 def greeting
